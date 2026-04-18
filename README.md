@@ -65,7 +65,7 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 
 🌐 Live Demo
-(Will add after deployment)
+https://ai-retention-copilot-ibb4jcdnsvz4w7zuufowql.streamlit.app/
 
 🚀 What can be improved
 Use advanced models like Random Forest / XGBoost
