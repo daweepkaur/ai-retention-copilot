@@ -60,7 +60,6 @@ This project tries to answer those questions.
 ![Age Risk](images/age_risk.png)
 
 ## ▶️ How to run
-```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
 
@@ -74,7 +73,7 @@ Improve recommendations using ML
 Integrate with backend systems
 
 🎯 Final note
-This project is not just about predicting churn-it's about helping businesses decide what to do next.
+This project is not just about predicting churn — it's about helping businesses decide what to do next.
 
 👤 Author
 Daweep Kaur
